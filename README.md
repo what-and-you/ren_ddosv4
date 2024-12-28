@@ -33,7 +33,7 @@ Keluar: Menutup skrip.
 
 ---
 
-🌟 Fitur Utama
+# 🌟 Fitur Utama
 
 Metode HTTP: Mendukung GET, POST, PUT, DELETE, HEAD untuk pengujian berbagai jenis request.
 
@@ -45,7 +45,7 @@ Cek Status & IP: Memudahkan untuk mengetahui apakah server aktif dan mendapatkan
 
 ---
 
-⚖️ Peraturan Penggunaan
+# ⚖️ Peraturan Penggunaan
 
 Hanya untuk Pengujian yang Sah: Skrip ini hanya boleh digunakan untuk menguji server atau situs yang Anda miliki atau memiliki izin eksplisit untuk diuji.
 
@@ -55,7 +55,7 @@ Tidak untuk Serangan Tanpa Izin: Dilarang keras menggunakan skrip ini untuk meny
 
 ---
 
-💡 Rekomendasi Penggunaan
+# 💡 Rekomendasi Penggunaan
 
 Pengujian Server:
 
