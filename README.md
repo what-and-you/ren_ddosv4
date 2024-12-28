@@ -1,4 +1,4 @@
-# ren_ddosv4 - Pengujian DDoS Simulasi untuk Server Anda
+# ren_ddosv4 -  Fitur Terbaru Dari REN9999
 
 **ren_ddosv4** adalah skrip Python untuk melakukan pengujian beban pada server menggunakan simulasi DDoS. Skrip ini memungkinkan Anda untuk menguji ketahanan server terhadap trafik yang tinggi dan memastikan performa server dalam kondisi tekanan.
 
@@ -8,7 +8,7 @@
 
 ### 1. **Install Dependensi**:
    Pastikan Anda menginstal pustaka yang dibutuhkan sebelum menjalankan skrip:
-   ```bash
+   bash
    pip install requests colorama
 
 2. Jalankan Skrip:
